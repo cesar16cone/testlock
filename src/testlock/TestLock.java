@@ -1,5 +1,5 @@
 package testlock;
-
+/*Actualizado*/
 public class TestLock {
 	static Boolean lock;
 	TestLock(){
